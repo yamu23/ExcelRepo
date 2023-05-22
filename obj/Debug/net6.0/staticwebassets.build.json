@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TCCgqRKVFwNTFVPPsVMkWhF92zTBS6xvs2L7LTiGZ+Q=",
+  "Source": "ExcelExport",
+  "BasePath": "_content/ExcelExport",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
